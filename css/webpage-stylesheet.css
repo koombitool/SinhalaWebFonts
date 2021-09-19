@@ -106,7 +106,8 @@ h2{
 	padding-top: 10px;
 	padding-bottom: 50px;
 	color: #333;
-	font: 10px Arial, sans-serif;
+	font-size: 15px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .tabs {

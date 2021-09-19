@@ -1,11 +1,7 @@
-<!DOCTYPE html
-	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
+<!DOCTYPE html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"
+	<script src="./ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"
 		charset="utf-8"></script>
 	<script type="text/javascript">
 		(function ($) {
@@ -53,6 +49,7 @@
 			<li><a href="#layout">Sample Blog Post</a></li>
 			<li><a href="#glyphs">Glyphs &amp; Languages</a></li>
 			<li><a href="#installing">Install This Font</a></li>
+			<li><a href="#project">Project Source</a></li>
 
 		</ul>
 		<div id="main_content">
@@ -1234,24 +1231,31 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
 
 		</div>
 		<div id="footer">
-			<p>&copy; Copyright 2021, Koombitool LK And The Contribution Of SinhalaWebFont Project.</p>
+			<p>&copy; Copyright 2021, <a href="https://github.com/koombitool">Koombitool LK</a> And The Contribution Of <a href="https://github.com/koombitool/sinhalawebfonts">SinhalaWebFont Project.</a></p>
 		</div>
-		<div>
-			<script type='text/javascript'>
-$(function(){$(window).scroll
-(function(){if($(this).scrollTop()!=0){$("#noop-top").
-fadeIn()}else{$("#noop-top").fadeOut()}});$("#noop-top").
-click(function(){$("body,html").animate({scrollTop:0},800);
-return false})});</script><a href="http://munnamark.blogspot.com">
-</a><a id='noop-top' style='display: none; position: fixed; 
-bottom: 1px; right:1%; cursor:pointer;font:12px arial;'>
-<img src='https://telegra.ph/file/fcaf4220a89be3b5c516f.png'/ width="50px" height="50px">
-		</div>
+	</div>
+	
+	<div>
+		<script type='text/javascript'>
+			$(function () {
+				$(window).scroll
+				(function () {
+					if ($(this).scrollTop() != 0) {
+						$("#noop-top").
+						fadeIn()
+					} else { $("#noop-top").fadeOut() }
+				}); $("#noop-top").
+					click(function () {
+						$("body,html").animate({ scrollTop: 0 }, 400);
+						return false
+					})
+			});</script><a id='noop-top' style='display: none; position: fixed; 
+	bottom: 40px; right:12px; cursor:pointer;font:12px arial; z-index: 10000; transition: 0.05s;'>
+			<img src='contents/images/top.png' width="50px" height="50px">
 	</div>
 </body>
 
