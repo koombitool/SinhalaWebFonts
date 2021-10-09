@@ -2,4 +2,4 @@
 # වෙබ් අඩවි සඳහා සිංහල ඇස්කි ෆොන්ට් එක. :grinning: (Unicode Font එකක් නොවේ)<br>
 ##  :blue_heart: සියලුම උපදෙස් සදහා [Koombiweb](https://koombitool.github.io/SinhalaWebFonts) වෙත පිවිසෙන්න...<br>
 ##  :basecamp: Koombitool From :octocat:Github
-![Example](https://dl-koombi-content.netlify.app/img/text.png)
+![Example](https://telegra.ph/file/874330777afb970de1285.png)
