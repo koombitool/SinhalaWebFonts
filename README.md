@@ -14,6 +14,7 @@
   </br>
   <img src="https://telegra.ph/file/874330777afb970de1285.png" title="example koombiwebfont" align="center">
   </h2>
+<a href="https://www.jsdelivr.com/package/npm/koombiwebfont"><p align="center"><img src="https://data.jsdelivr.com/v1/package/npm/koombiwebfont/badge"></p></a>
 
 `What's the new:`
 `NPM Package Released`
