@@ -1,7 +1,7 @@
 {
   "name": "koombiwebfont",
-  "version": "2.1.0",
-  "description": "Sinhala Ascii Web Font For HTML Websites (With Blogger) v2.1 New release.",
+  "version": "2.1.1",
+  "description": "Sinhala Ascii Web Font For HTML Websites. v2.1.1 Release.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified...\" && exit 1"
