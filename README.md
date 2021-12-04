@@ -31,11 +31,11 @@
 ```
 `or`
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/koombiwebfont@v2.1.1/Koombiweb/koombiweb.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/koombiwebfont@latest/Koombiweb/koombiweb.css">
 ```
 ### Minified version of `koombiweb.css`
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/koombiwebfont@v2.1.1/Koombiweb/koombiweb.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/koombiwebfont@latest/Koombiweb/koombiweb.min.css">
 ```
 # @Import rule
 ```
@@ -46,7 +46,7 @@
 `or`
 ```
 <style>
-@import url('https://cdn.jsdelivr.net/npm/koombiwebfont@v2.1.1/Koombiweb/koombiweb.css');
+@import url('https://cdn.jsdelivr.net/npm/koombiwebfont@latest/Koombiweb/koombiweb.css');
 </style>
 ```
 
