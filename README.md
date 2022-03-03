@@ -50,6 +50,10 @@
 </style>
 ```
 
+## Font Preview
+
+<img src="./contents/images/text.png" height="60px" title="Sample Preview Of Koombiweb Font" align="center">
+
 <h2 align="center">  💙 සියලුම උපදෙස් සදහා <a href="https://koombitool.github.io/SinhalaWebFonts">Koombiweb</a> වෙත පිවිසෙන්න... </h12<br>
   </h2>
 
